@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter and Kotlin,
 - 💞️ I’m looking to collaborate on any new Flutter dev project, 
 - 📫 How to reach me : connect with me through Linkedin or insta (check profile),
-- 😄 Pronouns: Call me nicxal,
+- 😄 Pronouns: Call me niscxal,
 - ⚡ Fun fact: Cloning a woman with code is tougher than cloning the whole universe.
 
 <!---
